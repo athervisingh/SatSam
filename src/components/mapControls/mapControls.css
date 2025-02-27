@@ -1,0 +1,37 @@
+.custom-popup .leaflet-popup-content-wrapper {
+    background-color: transparent;
+    box-shadow: none;
+  }
+  
+  .custom-popup .leaflet-popup-content {
+    margin: 0;
+    line-height: 1.4;
+  }
+  
+  .custom-popup .leaflet-popup-tip-container {
+    display: none;
+  }
+  
+  .scrollbar-custom {
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: var(--button-color) var(--bg-color); /* Firefox */
+  }
+  
+  /* Webkit-based browsers (Chrome, Edge, Safari) */
+  .scrollbar-custom::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb {
+    background-color: var(--button-color);
+    border-radius: 4px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+    background-color: var(--button-select-color);
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-track {
+    background-color: var(--bg-color);
+    border-radius: 4px;
+  }

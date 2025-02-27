@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Icon" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<path d="M42 22C42 33.0457 33.0457 42 22 42M42 22C42 10.9543 33.0457 2 22 2M42 22H2M22 42C10.9543 42 2 33.0457 2 22M22 42C27.0026 36.5233 29.8455 29.4159 30 22C29.8455 14.5841 27.0026 7.47671 22 2M22 42C16.9974 36.5233 14.1545 29.4159 14 22C14.1545 14.5841 16.9974 7.47671 22 2M2 22C2 10.9543 10.9543 2 22 2" stroke="#1E1E1E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0,0,253.7303466796875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.272727272727273s" values="0,0,0,253.7303466796875; 
+          0,126.86517333984375,126.86517333984375,0; 
+          253.7303466796875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</svg>
